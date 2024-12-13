@@ -1,4 +1,4 @@
-# Liberapay
+Liberapay
 
 [![Weblate](https://hosted.weblate.org/widgets/liberapay/-/shields-badge.svg)](https://hosted.weblate.org/engage/liberapay/?utm_source=widget)
 [![Open Source Helpers](https://www.codetriage.com/liberapay/liberapay.com/badges/users.svg)](https://www.codetriage.com/liberapay/liberapay.com)
