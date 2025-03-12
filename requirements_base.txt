@@ -39,7 +39,7 @@ aspen-jinja2==0.5 \
     --hash=sha256:b199d34d84cfaab3f5a94c3e28fa04bd453950f7c1187ff92e9fbf2319e1e1fa \
     --hash=sha256:316fad588dc68bb8f86a6bf7cf56d2a666a1e4659d30bf26c29f24685dd2a8e6
 
-    Jinja2==3.1.4 \
+Jinja2==3.1.6 \
         --hash=sha256:4a3aee7acbbe7303aede8e9648d13b8bf88a429282aa6122a993f0ac800cb369 \
         --hash=sha256:bc5dd2abb727a5319567b7a813e6a2e7318c39f4f487cfe6c89c6f9c7d25197d
 
